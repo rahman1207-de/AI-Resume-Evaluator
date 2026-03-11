@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Evaluator",
+  "description": "An intelligent tool for students to analyze their resumes, get suitability scores, and receive actionable improvement suggestions using AI.",
+  "requestFramePermissions": []
+}
